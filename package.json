@@ -1,0 +1,15 @@
+{
+  "name": "ocean-spring-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "if the ocean had spring it would look like this",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/ocean-spring-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
